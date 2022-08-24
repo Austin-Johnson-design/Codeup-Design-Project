@@ -1,10 +1,12 @@
-.dot {
-    height: 105px;
+.circle {
     width: 105px;
-    background-color: #E6563B;
+    height: 105px;
+    line-height: 105px;
     border-radius: 50%;
-    border: 8px solid white;
+    font-size: 1em;
+    color: #fff;
     text-align: center;
+    background: #000;
 }
 body {
     background-color: #e6e6e6;
