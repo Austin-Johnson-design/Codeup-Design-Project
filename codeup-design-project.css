@@ -1,13 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 .circle {
-    width: 105px;
-    height: 105px;
-    line-height: 105px;
+    width: 100px;
+    height: 100px;
+    line-height: 95px;
     border-radius: 50%;
     font-size: 1em;
     color: #fff;
     text-align: center;
     background: #000;
+    font-family: 'Anton', sans-serif;
+    border: 5px solid white;
 }
 body {
-    background-color: #e6e6e6;
+    background-color: #f0f0f0;
+}
+.title{
+    font-family: 'Anton', sans-serif;
+    font-size: 3.5rem;
+}
+.subtitle{
+    font-family: 'Anton', sans-serif;
+    font-size: 2em;
+}
+.nav-text{
+    font-family: 'Abel', sans-serif;
 }
