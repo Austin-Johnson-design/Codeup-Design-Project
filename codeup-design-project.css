@@ -12,6 +12,29 @@
     font-family: 'Anton', sans-serif;
     border: 5px solid white;
 }
+.circle-sm {
+    width: 18px;
+    height: 18px;
+    line-height: 18px;
+    border-radius: 50%;
+    font-size: .5em;
+    color: #000;
+    text-align: center;
+    background: #000;
+    font-family: 'Anton', sans-serif;
+}
+.circ-o{
+    background-color: #e6563b;
+}
+.circ-y{
+    background-color: #eb9d3a;
+}
+.circ-g{
+    background-color: #7cb06c;
+}
+.circ-b{
+    background-color: #00aba9;
+}
 body {
     background-color: #f0f0f0;
 }
@@ -25,4 +48,8 @@ body {
 }
 .nav-text{
     font-family: 'Abel', sans-serif;
+}
+.body-text{
+    font-family: 'Abel', sans-serif;
+    font-size: .75em
 }
