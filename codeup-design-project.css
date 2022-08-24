@@ -42,14 +42,24 @@ body {
     font-family: 'Anton', sans-serif;
     font-size: 3.5rem;
 }
-.subtitle{
+.subtitle {
     font-family: 'Anton', sans-serif;
     font-size: 2em;
+}
+.subtitle-last{
+    font-family: 'Anton', sans-serif;
+    font-size: 1.5em;
 }
 .nav-text{
     font-family: 'Abel', sans-serif;
 }
 .body-text{
     font-family: 'Abel', sans-serif;
-    font-size: .75em
+    font-size: .9em
+}
+.img-last{
+    width: 80px;
+    height: 80px;
+    border: 4px solid #e6e6e6;
+    border-radius: 5px;
 }
